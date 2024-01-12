@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: red;
+    letter-spacing: 0.2rem;
+    font-size: 0.8rem;
+    background-size:cover;
+    background-image: url(../img/istockphoto-1429064821-170667a.webp);
+}
+.container{
+    max-width: 400px;
+    width: 50%;
+}
+.card{
+    margin-top: 100px;
+}
+.icon{
+    position: relative;
+    top: -50px;
+    background-color:#fff;
+    border-radius: 50%;
+}
